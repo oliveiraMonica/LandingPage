@@ -148,7 +148,7 @@
 }
 
 .form-group button:hover {
-    background: blue;
+    background: var(--white-color);
     color: gray;
 }
 
